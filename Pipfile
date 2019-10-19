@@ -9,8 +9,8 @@ verify_ssl = true
 jupyter = "*"
 numpy = "*"
 matplotlib = "*"
-mpl-toolkits = "*"
 jupyter-contrib-nbextensions = "*"
+jupyterthemes = "*"
 
 [requires]
 python_version = "3.7"

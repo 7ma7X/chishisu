@@ -11,6 +11,7 @@ numpy = "*"
 matplotlib = "*"
 jupyter-contrib-nbextensions = "*"
 jupyterthemes = "*"
+scipy = "*"
 
 [requires]
 python_version = "3.7"
